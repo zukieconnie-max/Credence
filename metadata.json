@@ -1,0 +1,6 @@
+{
+  "name": "Credence | Commercial Business Plan & Credit Assessment Suite",
+  "description": "Institutional-grade commercial business plan maker and credit underwriting platform with 5-year financial projections, 3-statement model, DSCR analysis, sources & uses, collateral schedule, and bank-ready dossier export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
